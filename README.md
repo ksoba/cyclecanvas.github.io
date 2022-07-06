@@ -1,2 +1,2 @@
-# cycleheatmap.github.io
+# cyclecanvas.github.io
 Website for myself
